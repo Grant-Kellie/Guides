@@ -122,6 +122,7 @@ To do so you may need to create and modify a .htaccess file in the root director
 
 See: [How to change my document root to a folder using .htaccess](https://www.ecenica.com/support/answer/how-to-change-my-document-root-to-a-folder-using-htaccess/)
 
+![image](https://user-images.githubusercontent.com/94868357/216785555-c017671a-068d-4750-a7ac-1f272b126662.png)
 
 ```terminal
 # Point to Laravel DocumentRoot / Bootstrap

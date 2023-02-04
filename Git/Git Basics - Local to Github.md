@@ -69,10 +69,16 @@ git commit -m "Initial"
 ```
 
 ## Check Status of files
+```
 git status -s
+```
 
 ## Checks remote before push
+```
 git remote -v
+```
 
 ## Prompt Authentication token / sign-in
+```
 git push origin main
+```
